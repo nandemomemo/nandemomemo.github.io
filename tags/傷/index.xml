@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>傷 on なんでもメモ</title>
+    <link>https://nandemomemo.github.io/tags/%E5%82%B7/</link>
+    <description>Recent content in 傷 on なんでもメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 10 Feb 2018 23:10:39 +0900</lastBuildDate>
+    
+	<atom:link href="https://nandemomemo.github.io/tags/%E5%82%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>よもぎの旬の時期</title>
+      <link>https://nandemomemo.github.io/post/season-of-mugwort/</link>
+      <pubDate>Sat, 10 Feb 2018 23:10:39 +0900</pubDate>
+      
+      <guid>https://nandemomemo.github.io/post/season-of-mugwort/</guid>
+      <description>今年ももうすぐよもぎが旬の時期（3～5月）がやってきます。モチグサとも呼ばれ、英語ではJapanese mugwortがよもぎを意味します。言</description>
+    </item>
+    
+  </channel>
+</rss>
