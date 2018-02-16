@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nandemomemo.github.io/post/everyday-use-of-outdoor-goods-and-camp-gear/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nandemomemo.github.io/post/crime-prevention-measures-done-with-auxiliary-lock/</loc>
     <lastmod>2018-02-14T19:48:05+09:00</lastmod>
   </url>
@@ -42,7 +47,7 @@
   
   <url>
     <loc>https://nandemomemo.github.io/post/</loc>
-    <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,13 +77,19 @@
   
   <url>
     <loc>https://nandemomemo.github.io/</loc>
-    <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E3%82%88%E3%82%82%E3%81%8E/</loc>
     <lastmod>2018-02-10T23:10:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,8 +106,20 @@
   </url>
   
   <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%B2%E3%83%B3/</loc>
+    <lastmod>2018-02-07T20:02:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nandemomemo.github.io/tags/%E3%82%AC%E3%83%BC%E3%83%89/</loc>
     <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,6 +148,12 @@
   </url>
   
   <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nandemomemo.github.io/tags/%E3%83%92%E3%83%8E%E3%82%AD/</loc>
     <lastmod>2018-02-07T20:02:04+09:00</lastmod>
     <priority>0</priority>
@@ -145,6 +174,12 @@
   <url>
     <loc>https://nandemomemo.github.io/tags/%E3%83%A2%E3%83%81%E3%82%B0%E3%82%B5/</loc>
     <lastmod>2018-02-10T23:10:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,13 +227,13 @@
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E5%AD%A3%E7%AF%80/</loc>
-    <lastmod>2018-02-07T20:02:04+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E5%AE%A4%E5%86%85/</loc>
-    <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,6 +246,12 @@
   <url>
     <loc>https://nandemomemo.github.io/tags/%E5%AF%BE%E7%AD%96/</loc>
     <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E5%B1%8B%E5%A4%96/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,6 +274,12 @@
   </url>
   
   <url>
+    <loc>https://nandemomemo.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nandemomemo.github.io/tags/%E6%97%AC/</loc>
     <lastmod>2018-02-10T23:10:39+09:00</lastmod>
     <priority>0</priority>
@@ -240,12 +287,18 @@
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E6%98%A5/</loc>
-    <lastmod>2018-02-07T20:02:04+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E6%99%82%E6%9C%9F/</loc>
+    <lastmod>2018-02-10T23:10:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E6%9C%88/</loc>
     <lastmod>2018-02-10T23:10:39+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -337,6 +390,12 @@
   <url>
     <loc>https://nandemomemo.github.io/tags/%E9%98%B2%E7%8A%AF/</loc>
     <lastmod>2018-02-14T19:48:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E9%A3%9B%E3%81%B6/</loc>
+    <lastmod>2018-02-07T20:02:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
