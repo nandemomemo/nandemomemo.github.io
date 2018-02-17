@@ -23,6 +23,12 @@
   </url>
   
   <url>
+    <loc>https://nandemomemo.github.io/tags/bbq/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nandemomemo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -53,13 +59,19 @@
   
   <url>
     <loc>https://nandemomemo.github.io/tags/</loc>
-    <lastmod>2018-02-10T23:10:39+09:00</lastmod>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E3%81%82%E3%81%9B%E3%82%82/</loc>
     <lastmod>2018-02-10T23:10:39+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,6 +161,12 @@
   
   <url>
     <loc>https://nandemomemo.github.io/tags/%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</loc>
+    <lastmod>2018-02-16T12:52:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nandemomemo.github.io/tags/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB/</loc>
     <lastmod>2018-02-16T12:52:40+09:00</lastmod>
     <priority>0</priority>
   </url>
