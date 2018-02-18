@@ -1,241 +1,226 @@
-@media screen and (min-width: 800px) {
-	/* 表示領域が800px以上の場合に適用するスタイル */
-	/*--------------------------------------
-		ヨメレバ・カエレバここから
-	--------------------------------------*/
-	.booklink-box, .kaerebalink-box{
-		width:90%;
-		margin:20px auto;
-		padding:20px;
-		border:double #d2d7e6;
-		overflow: hidden;
-		font-size:small;
-		border-radius:2px;
-	}
-	
-	.booklink-image, .kaerebalink-image{
-		width: 150px;
-		/*height: 150px;*/
-		margin:0 15px 20px 0;
-		float:left;
-	}
-	.booklink-image img, .kaerebalink-image img{
-		/*height: 150px;*/
-		display:block;
-		margin:0 auto;
-		text-align:center;
-	}
-	
-	.booklink-info, .kaerebalink-info{
-		display:block;
-		margin:0 auto;
-		text-align:left;
-		line-height:120%;
-		overflow: hidden;
-	}
-	
-	.booklink-name, .kaerebalink-name{
-		font-size:16px;
-		margin-bottom:24px;
-		line-height:1.5;
-	}
-	
-	.booklink-powered-date, .kaerebalink-powered-date{
-		font-family: verdana;
-		font-size:8pt;
-		margin-top:5px;
-		line-height:120%;
-	}
-	.booklink-detail, .kaerebalink-detail{
-		margin-bottom:5px;
-	}
-	
-	.booklink-link2, .kaerebalink-link1{
-		margin-top:10px;
-	}
-	
-	.shoplinkamazon, .shoplinkrakuten, .shoplinkkindle, .shoplinkyahoo, .shoplinkkakakucom, .shoplinkseven, .shoplinkrakukobo{
-		float:left;
-		width:30%;
-		margin:15px 1% 0 auto;
-		padding:10px 0px;
-	/*	width:90%; */
-		height:15px;
-		overflow:hidden;
-		background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
-		background-color:#ffffff;
-		border-radius:6px;
-		border:1px solid #dcdcdc;
-		display:inline-block;
-	/*	margin:0  auto 5px auto; */
-	/*	padding:10px 0px; */
-		text-align:center;
-	}
-	
-	.shoplinkamazon:hover, .shoplinkrakuten:hover, .shoplinkkindle:hover, .shoplinkyahoo:hover, .shoplinkseven:hover, .shoplinkrakukobo:hover{
-		background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
-		background-color:#f6f6f6;
-	}
-	
-	.shoplinkamazon:active, .shoplinkrakuten:active, .shoplinkkindle:active, .shoplinkyahoo:active, .shoplinkseven:active, .shoplinkrakukobo:active{
-		position:relative;
-		top:1px;
-	}
-	
-	.shoplinkamazon a, .shoplinkrakuten a, .shoplinkyahoo a, .shoplinkkindle a, .shoplinkkakakucom a, .shoplinkseven a, .shoplinkrakukobo a{
-		display:block;
-		cursor:pointer;
-		text-decoration:none;
-		font-weight:800;
-		text-shadow:1px 1px 1px #dcdcdc;
-		font-size:12px;
-	}
-	
-	.shoplinkamazon a{
-		color:#FF9901;
-	}
-	
-	.shoplinkrakuten a{
-		color:#c20004;
-	}
-	
-	.shoplinkkindle a{
-		color:#007dcd;	
-	}
-	
-	.shoplinkyahoo a{
-		font-size:10px;
-		color:#7b0099;
-	} 
-	
-	.shoplinkseven a{
-		color:#000;
-	}
-	
-	.shoplinkrakukobo a{
-		color:#2098A8;
-	}
-	
-	.booklink-footer{
-		clear:left;
-	} 
-	/*--------------------------------------
-		ヨメレバ・カエレバここまで
-	--------------------------------------*/
+h2 {
+	background:linear-gradient(to right, #f3f3f3, #ffffff);	/* グラデーションを指定 */
+	border-left:thick solid #000;
+	padding:0.3rem 0.5rem;
 }
-@media screen and (max-width: 799px) {
-	/* 表示領域が800px未満の場合に適用するスタイル */
-	/*--------------------------------------
-		ヨメレバ・カエレバここから
-	--------------------------------------*/
-	.booklink-box, .kaerebalink-box{
-		width:85%;
-		margin: 1em 0 1em;
-		padding: 5%;
-		border:double #d2d7e6;
-		overflow: hidden;
-		font-size:small;
-		border-radius:2px;
-	}
-	
-	.booklink-image, .kaerebalink-image{
-		float: none !important;
-		text-align:center !important;
-		margin:0 auto !important;
-	}
-	.booklink-image img, .kaerebalink-image img{
-		display:block;
-		margin:0 auto;
-	}
-	
-	.booklink-info, .kaerebalink-info{
-		text-align:center;
-		line-height:120%;
-		overflow: hidden;
-		clear:left;
-	}
-	
-	.booklink-name, .kaerebalink-name{
-		font-size:16px;
-		margin-bottom:14px;
-		line-height:1.2em;
-	}
-	
-	.booklink-powered-date, .kaerebalink-powered-date{
-		font-size:8pt;
-		margin-top:10px;
-		line-height:120%;
-	}
-	.booklink-powered-date, .kaerebalink-detail{
-		margin-bottom:15px;
-	}
-	
-	.booklink-link2, .kaerebalink-link1{
-		margin-top:20px;
-	}
-	
-	.shoplinkamazon, .shoplinkrakuten, .shoplinkkindle, .shoplinkyahoo, .shoplinkkakakucom, .shoplinkseven, .shoplinkrakukobo{
-		width:99%;
-		text-align:center;
-		height:15px;
-		overflow:hidden;
-		background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
-		background-color:#ffffff;
-		border-radius:6px;
-		border:1px solid #dcdcdc;
-		display:inline-block;
-		margin:0  auto 5px auto;
-		padding:10px 0px;
-	}
-	
-	.shoplinkamazon:hover, .shoplinkrakuten:hover, .shoplinkkindle:hover, .shoplinkyahoo:hover, .shoplinkseven:hover, shoplinkrakukobo:hover{
-		background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
-		background-color:#f6f6f6;
-	}
-	
-	.shoplinkamazon:active, .shoplinkrakuten:active, .shoplinkkindle:active, .shoplinkyahoo:active, .shoplinkseven:active, .shoplinkrakukobo:active{
-		position:relative;
-		top:1px;
-	}
-	
-	.shoplinkamazon a, .shoplinkrakuten a, .shoplinkyahoo a, .shoplinkkindle a, .shoplinkkakakucom a, .shoplinkseven a, .shoplinkrakukobo a{
-		display:block;
-		cursor:pointer;
-		text-decoration:none;
-		font-weight:800;
-		text-shadow:1px 1px 1px #dcdcdc;
-		font-size:12px;
-	}
-	
-	.shoplinkamazon a{
-		color:#FF9901;
-	}
-	
-	.shoplinkrakuten a{
-		color:#c20004;
-	}
-	
-	.shoplinkkindle a{
-		color:#007dcd;	
-	}
-	
-	.shoplinkyahoo a{
-		color:#7b0099;
-	} 
-	
-	.shoplinkseven a{
-		color:#000;
-	}
-	
-	.shoplinkrakukobo a{
-		color:#2098A8;
-	}
-	
-	.booklink-footer{
-		clear:left;
-	}
-	
-	/*--------------------------------------
-		ヨメレバ・カエレバここまで
-	--------------------------------------*/
+h2:first-letter {	/* 最初の文字だけ加工 */
+	font-size:2.4rem;
+	color:#325A8C;
 }
+
+/*--------------------------------------
+	ヨメレバ・カエレバここから
+--------------------------------------*/
+
+/* カエレバパーツ全体のデザインをカスタマイズ */
+.kaerebalink-box,
+.booklink-box
+{
+	width: 100%;
+	margin-bottom: 1rem; /* 余白調整 */
+	padding: 1rem;
+	background: #ffffff; /* 背景白に */
+	border: double 3px #d0d0d0; /* 外線を二重線に */
+	box-sizing: border-box;
+	border-radius: 5px; /* 角を丸く*/
+	-webkit-border-radius: 5px;
+}
+
+/* 画像のデザインをカスタマイズ */
+.kaerebalink-image,
+.booklink-image
+{
+	float: left; /* 画像を左寄せに */
+	margin: 0; /* 余白なし */
+	text-align: center;
+}
+.kaerebalink-image img,
+.booklink-image img
+{
+	max-width: 128px; /* 最大幅128pxに */
+	height: auto; /* 高さ自由 */
+}
+
+/* 商品名等をカスタマイズ */
+.kaerebalink-info,
+.booklink-info
+{
+	margin-left: 140px; /* 文章は右寄せ */
+	line-height: 1.6rem; /* 行高さの幅を調整 */
+}
+.kaerebalink-name,
+.booklink-name
+{
+	font-weight: bold; /* 商品名太く */
+	margin: 0; /* 余白調整 */
+}
+.kaerebalink-name a,
+.booklink-name a
+{
+	color: #333333; /* 商品名色指定 */
+}
+.kaerebalink-name p,
+.booklink-name p
+{
+	margin-bottom: 0; /* 余白調整 */
+}
+.kaerebalink-powered-date,
+.booklink-powered-date
+{
+	font-size: 0.75rem; /* psted with ～ の大きさ指定 */
+	font-weight: normal; /* 文字の太さを標準に */
+	text-align: right; /* 右寄せ */
+}
+.kaerebalink-detail,
+.booklink-detail
+{
+	font-size: 0.875rem; /* メーカー・作者の文字の大きさ指定 */
+	margin-bottom: 0.5em; /* 余白調整 */
+}
+
+/* ボタンのカスタマイズ */
+.kaerebalink-link1,
+.booklink-link2
+{
+	width:100%;
+}
+.kaerebalink-link1 div,
+.booklink-link2 div
+{
+	float: left; /* ボタンを横並びに */
+	width: 49%; /* ボタンの幅調整（2列にするので間の余白を考え49%を指定） */
+	margin-bottom:0.2rem; /* 余白調整 */
+	font-size: 0.875rem; /* 文字の大きさ */
+	font-weight: bold; /* 文字を太く */
+	text-align: center; /* 文字を中央寄せ */
+	box-sizing: border-box;
+}
+.kaerebalink-link1 div:nth-child(even),
+.booklink-link2 div:nth-child(even)
+{
+	margin-left: 1%; /* 左右ボタン間の余白を調整 */
+}
+.kaerebalink-link1 div a,
+.booklink-link2 div a
+{
+	display:block;
+	padding:3px 0; /* ボタンの上下幅指定 */
+	margin-bottom:8px; /* 上下ボタン間の幅指定 */
+	text-decoration:none;
+	border-radius: 4px; /* 丸み調整 */
+	box-shadow: 0px 2px 4px 0 rgba(0,0,0,.26); /* シャドー作成 */
+}
+
+/* ボタンにカーソルを当てた時の動きをカスタマイズ */
+.kaerebalink-link1 div a:hover,
+.booklink-link2 div a:hover
+{
+	-ms-transform: translateY(4px);
+	-webkit-transform: translateY(4px);
+	transform: translateY(4px);
+	color: #ffffff;
+}
+
+/* カエレバ・ヨメレバ共通 */
+.shoplinkamazon a,
+.shoplinkrakuten a,
+.shoplinkseven a,
+/* カエレバ */
+.shoplinkyahoo a,
+.shoplinkbellemaison a,
+.shoplinkcecile a,
+.shoplinkkakakucom a,
+/* ヨメレバ */
+.shoplinkkindle a,
+.shoplinkrakukobo a,
+.shoplinkbk1 a,
+.shoplinkehon a,
+.shoplinkkino a,
+.shoplinktoshokan a
+{
+	display:block;
+	text-decoration:none;
+}
+
+/* カエレバ・ヨメレバ共通 色の指定 */
+.shoplinkamazon a { color:#ffffff; background:#ff9901; }
+.shoplinkrakuten a { color:#ffffff; background:#c20004; }
+.shoplinkseven a { color:#ffffff; background:#225496; }
+/* カエレバ  色の指定 */
+.shoplinkyahoo a { color:#ffffff; background:#ff0033; }
+.shoplinkbellemaison a { color:#ffffff; background:#84be24 ; }
+.shoplinkcecile a { color:#ffffff; background:#8d124b; }
+.shoplinkkakakucom a { color:#ffffff; background:#314995; }
+/* ヨメレバ 色の指定 */
+.shoplinkkindle a { color:#ffffff; background:#007dcd; }
+.shoplinkrakukobo a { color:#ffffff; background:#d50000; }
+.shoplinkbk1 a { color:#ffffff; background:#0085cd; }
+.shoplinkehon a { color:#ffffff; background:#2a2c6d; }
+.shoplinkkino a { color:#ffffff; background:#003e92; }
+.shoplinktoshokan a { color:#ffffff; background:#333333; }
+.booklink-footer
+{
+	clear:both;
+}
+
+/* もしもアフィリエイトの場合不要な画像を削除 */
+.kaerebalink-image img[src^="//i.moshimo.com/af/i/impression"],
+.booklink-image img[src^="//i.moshimo.com/af/i/impression"],
+.shoplinkamazon img,
+.shoplinkrakuten img,
+.shoplinkseven img,
+.shoplinkyahoo img,
+.shoplinkbellemaison img,
+.shoplinkcecile img,
+.shoplinkkakakucom img,
+.shoplinkkindle img,
+.shoplinkrakukobo img,
+.shoplinkbk1 img,
+.shoplinkehon img,
+.shoplinkkino img,
+.shoplinktoshokan img
+{
+	display:none;
+}
+
+/* スマホ表示の設定 */
+@media only screen and (max-width:460px){
+	
+	/* 画像の設定 */
+	.kaerebalink-image,
+	.booklink-image
+	{
+		float:none; /* 画像を中央寄せに */
+		margin:0;
+		text-align:center;
+	}
+	/* 画像サイズを最大180pxに */
+	.kaerebalink-image img,
+	.booklink-image img
+	{
+		max-width:180px;
+		height:auto;
+	}
+	 /* 商品名等をカスタマイズ */
+	.kaerebalink-info,
+	.booklink-info
+	{
+		margin: 0; /* 余白調整 */
+	}
+	/* ボタンのカスタマイズ */
+	.kaerebalink-link1 div,
+	.booklink-link2 div
+	{
+		float: none;
+		width: 100%;
+	}
+	.kaerebalink-link1 div:nth-child(even),
+	.booklink-link2 div:nth-child(even)
+	{
+		margin-left: 0; /* 余白を調整（ボタン縦並びにするため） */
+	}
+}
+
+/*--------------------------------------
+	ヨメレバ・カエレバここまで
+--------------------------------------*/
